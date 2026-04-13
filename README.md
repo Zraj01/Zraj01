@@ -72,16 +72,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zraj01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zraj01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zraj01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zraj01&theme=tokyonight&hide_border=false&layout=compact" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zraj01&theme=tokyonight&hide_border=false&border_radius=5&mode=weekly" height="170" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zraj01&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=3b82f6&point=ffffff&area=true&hide_border=true" height="170" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=Zraj01&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zraj01&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=3b82f6&point=ffffff&area=true&hide_border=true" height="170" />
 </div>
-
-<br/>
 
 <!-- TROPHIES (same but with gradient theme) -->
 ## 🏆 GitHub Trophies
