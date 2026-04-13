@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: I turn coffee into code and bugs into features  (sometimes).</i>
+  <i>⚡ Fun fact: I turn coffee into code and bugs into features (sometimes).</i>
 </p>
