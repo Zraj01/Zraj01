@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Zraj01/Zraj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+💻 Learning and building with the MERN Stack
+🧠 Practicing Data Structures & Algorithms
+🎯 Focused on improving problem-solving skills
+🌱 Currently working on becoming a better developer
+🛠️ Tech Stack
 
-Here are some ideas to get you started:
+Frontend:
+HTML | CSS | JavaScript | React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend:
+Node.js | Express.js
+
+Database:
+MongoDB
+
+Tools:
+Git | GitHub | VS Code
+
+📌 What I'm Doing Right Now
+Solving DSA problems regularly
+Learning React and Backend concepts
+Improving coding consistency
